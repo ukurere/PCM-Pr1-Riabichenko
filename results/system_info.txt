@@ -1,0 +1,11 @@
+Дата: 2026-10-22 16:16 (час прогону bench.py)
+ОС: Windows-11-10.0.26200-SP0
+Процесор: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+Логічних процесорів: 8
+11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz; фізичних ядер: 4; логічних: 8; L2 (сумарно): 5120 КБ; L3: 12288 КБ
+ОЗП: 15.7 ГБ
+false_sharing --info: cache_line_bytes=64 hardware_threads=8 L1d=48KBx4 L1i=32KBx4 L2=1280KBx4 L3=12288KBx1
+Компілятор: g++ (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+Параметри збирання: -std=c++17 -O2 -Wall -Wextra -pthread
+Корпус: C:\Users\Ukurere\Documents\Uni-4\PCM\PCM-Pr1-Riabichenko\data\corpus_en
+Повторень: 5 (+1 попередній прогін), пауза між запусками: 2.0 с

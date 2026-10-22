@@ -1,0 +1,17 @@
+# Збірка
+build/
+*.exe
+*.o
+
+# Корпус текстів і вихідні індекси (до архіву не додаються)
+data/
+out/
+*.tsv
+
+# Python
+__pycache__/
+.venv/
+
+# IDE
+.vscode/
+.idea/
